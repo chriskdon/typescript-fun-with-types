@@ -22,6 +22,10 @@ deps
 _build/
 _checkouts/
 
-# **** Build Artifacts
+# **** Build Artifacts ****
 
 _build
+
+# **** Other ****
+
+.DS_Store
